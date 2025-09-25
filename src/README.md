@@ -1,0 +1,1 @@
+For the dataset I deleted the piece of data for Top 10 since they were for different years, I deleted the last two empty lines, changed the three ramens who had no rating to a rating of 0, and deleted the "," from ramen variety names.
